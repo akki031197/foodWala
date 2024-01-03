@@ -1,0 +1,28 @@
+{
+  "name": "foodwala",
+  "version": "1.0.0",
+  "description": "A food delivery application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akki03117/foodWala.git"
+  },
+  "author": "Akshay Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akki03117/foodWala/issues"
+  },
+  "homepage": "https://github.com/akki03117/foodWala#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "reactdom": "^2.0.0"
+  }
+}
