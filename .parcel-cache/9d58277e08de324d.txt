@@ -1,4 +1,4 @@
-5968
+5970
 104E:\Reactjs Project\foodWala\foodWala\node_modules\csso\node_modules\css-tree\cjs\syntax\node\AnPlusB.cjs133487526997807664 0
 102E:\Reactjs Project\foodWala\foodWala\node_modules\csso\node_modules\mdn-data\css\selectors.schema.json133487527029273190 0
 49E:\Reactjs Project\foodWala\foodWala\package.json133487559983037827 0
@@ -25,14 +25,14 @@
 100E:\Reactjs Project\foodWala\foodWala\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\intro.doc133487527071971223 0
 58E:\Reactjs Project\foodWala\foodWala\node_modules\svgo\lib133487527046499053 1
 88E:\Reactjs Project\foodWala\foodWala\node_modules\css-tree\cjs\syntax\scope\selector.cjs133487527072427815 0
-41E:\Reactjs Project\foodWala\foodWala\dist133487554602471865 1
+41E:\Reactjs Project\foodWala\foodWala\dist133487601469978784 1
 78E:\Reactjs Project\foodWala\foodWala\node_modules\@parcel\utils\src\urlJoin.js133487527066812819 0
 59E:\Reactjs Project\foodWala\foodWala\node_modules\commander133487527008738633 1
 62E:\Reactjs Project\foodWala\foodWala\node_modules\svgo\LICENSE133487526989120525 0
 56E:\Reactjs Project\foodWala\foodWala\node_modules\@babel133487526952553192 1
 72E:\Reactjs Project\foodWala\foodWala\node_modules\source-map\lib\util.js133487527019140272 0
 93E:\Reactjs Project\foodWala\foodWala\node_modules\@swc\helpers\cjs\_sliced_to_array_loose.cjs133487527061497034 0
-43E:\Reactjs Project\foodWala\foodWala\App.js133487548186001587 0
+43E:\Reactjs Project\foodWala\foodWala\App.js133487566245469955 0
 102E:\Reactjs Project\foodWala\foodWala\node_modules\scheduler\umd\scheduler-unstable_mock.development.js133487549332645869 0
 78E:\Reactjs Project\foodWala\foodWala\node_modules\semver\ranges\min-version.js133487527031497237 0
 95E:\Reactjs Project\foodWala\foodWala\node_modules\csso\node_modules\mdn-data\css\selectors.json133487527028455370 0
@@ -51,13 +51,13 @@
 107E:\Reactjs Project\foodWala\foodWala\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\index.js133487526998057888 0
 67E:\Reactjs Project\foodWala\foodWala\node_modules\tslib\LICENSE.txt133487527018462077 0
 97E:\Reactjs Project\foodWala\foodWala\node_modules\caniuse-lite\data\features\input-placeholder.js133487527094740914 0
-47E:\Reactjs Project\foodWala\foodWala\index.html133487554584725044 0
+47E:\Reactjs Project\foodWala\foodWala\index.html133487568329800970 0
 84E:\Reactjs Project\foodWala\foodWala\node_modules\@parcel\core\lib\InternalConfig.js133487527069675178 0
 103E:\Reactjs Project\foodWala\foodWala\node_modules\csso\node_modules\css-tree\lib\syntax\pseudo\index.js133487527082175343 0
 91E:\Reactjs Project\foodWala\foodWala\node_modules\caniuse-lite\data\features\textcontent.js133487527107813224 0
 75E:\Reactjs Project\foodWala\foodWala\node_modules\msgpackr\rollup.config.js133487527025932121 0
 92E:\Reactjs Project\foodWala\foodWala\node_modules\entities\lib\generated\decode-data-html.js133487526998864839 0
-46E:\Reactjs Project\foodWala\foodWala\index.css133487523978809144 0
+46E:\Reactjs Project\foodWala\foodWala\index.css133487601462278202 0
 81E:\Reactjs Project\foodWala\foodWala\node_modules\caniuse-lite\data\regions\MK.js133487527097969544 0
 109E:\Reactjs Project\foodWala\foodWala\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\parser133487527074113308 1
 107E:\Reactjs Project\foodWala\foodWala\node_modules\csso\node_modules\css-tree\cjs\syntax\node\WhiteSpace.cjs133487527075422173 0
@@ -429,7 +429,7 @@
 85E:\Reactjs Project\foodWala\foodWala\node_modules\svgo\plugins\removeScriptElement.js133487527069525579 0
 56E:\Reactjs Project\foodWala\foodWala\node_modules\parcel133487527007751145 1
 63E:\Reactjs Project\foodWala\foodWala\node_modules\parent-module133487526995702986 1
-59E:\Reactjs Project\foodWala\foodWala\dist\index.7826abd7.js133487554602322275 0
+59E:\Reactjs Project\foodWala\foodWala\dist\index.7826abd7.js133487601468766874 0
 106E:\Reactjs Project\foodWala\foodWala\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\CHANGES133487526991165053 0
 84E:\Reactjs Project\foodWala\foodWala\node_modules\@parcel\codeframe\src\codeframe.js133487527031646841 0
 87E:\Reactjs Project\foodWala\foodWala\node_modules\csso\node_modules\css-tree\lib\parser133487527085293421 1
@@ -5964,6 +5964,8 @@
 66E:\Reactjs Project\foodWala\foodWala\dist\foodWala.3464ddca.js.map133487529636646937 0
 59E:\Reactjs Project\foodWala\foodWala\dist\index.6bd02f5a.js133487529636266119 0
 63E:\Reactjs Project\foodWala\foodWala\dist\index.6bd02f5a.js.map133487529636645096 0
-63E:\Reactjs Project\foodWala\foodWala\dist\index.7826abd7.js.map133487554602451923 0
+63E:\Reactjs Project\foodWala\foodWala\dist\index.7826abd7.js.map133487601469781082 0
 71E:\Reactjs Project\foodWala\foodWala\dist\index.7826abd7.js.map.11628.e133487546145513489 0
-52E:\Reactjs Project\foodWala\foodWala\dist\index.html133487554602312308 0
+60E:\Reactjs Project\foodWala\foodWala\dist\index.9e4c6fd2.css133487601466776880 0
+64E:\Reactjs Project\foodWala\foodWala\dist\index.9e4c6fd2.css.map133487601469771112 0
+52E:\Reactjs Project\foodWala\foodWala\dist\index.html133487601466787086 0
