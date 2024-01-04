@@ -27461,39 +27461,48 @@ var _restaurantCard = require("./RestaurantCard");
 var _restaurantCardDefault = parcelHelpers.interopDefault(_restaurantCard);
 var _mockData = require("../utils/mockData");
 var _mockDataDefault = parcelHelpers.interopDefault(_mockData);
+var _s = $RefreshSig$();
 const Body = ()=>{
+    _s();
+    const [listOfRestaurants, setListOfRestaurants] = (0, _react.useState)((0, _mockDataDefault.default));
+    const topRatedRestaurants = ()=>{
+        const restaurant = (0, _mockDataDefault.default).filter((res)=>res.data.avgRating > 4);
+        setListOfRestaurants(restaurant);
+    };
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
         className: "body",
         children: [
-            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
-                className: "search",
-                children: "Search"
+            /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("button", {
+                className: "filter-btn",
+                onClick: topRatedRestaurants,
+                children: "Top Rated Restaurant"
             }, void 0, false, {
                 fileName: "src/components/Body.js",
-                lineNumber: 8,
+                lineNumber: 15,
                 columnNumber: 7
             }, undefined),
             /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
                 className: "res-container",
-                children: (0, _mockDataDefault.default).map((data, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _restaurantCardDefault.default), {
+                children: !listOfRestaurants.length > 0 ? "..loading" : listOfRestaurants.map((data, index)=>/*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)((0, _restaurantCardDefault.default), {
                         resData: data
                     }, data.data.id, false, {
                         fileName: "src/components/Body.js",
-                        lineNumber: 11,
-                        columnNumber: 11
+                        lineNumber: 23,
+                        columnNumber: 15
                     }, undefined))
             }, void 0, false, {
                 fileName: "src/components/Body.js",
-                lineNumber: 9,
+                lineNumber: 19,
                 columnNumber: 7
             }, undefined)
         ]
     }, void 0, true, {
         fileName: "src/components/Body.js",
-        lineNumber: 7,
+        lineNumber: 14,
         columnNumber: 5
     }, undefined);
 };
+_s(Body, "VqXrc/LZ4Y4G4+T/44M+hDo7UNI=");
 _c = Body;
 exports.default = Body;
 var _c;
