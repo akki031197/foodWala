@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "web_accessible_resources": [
+    {
+      "resources": ["images/*.png", "scripts/*.js"],
+      "matches": ["/www.swiggy.com"]
+    }
+  ]
+}

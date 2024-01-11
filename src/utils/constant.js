@@ -3,3 +3,7 @@ export const CON_URL =
 
 export const LOGO_URL =
   "https://img.freepik.com/free-vector/detailed-chef-logo-template_23-2148986823.jpg?w=740&t=st=1704280532~exp=1704281132~hmac=799e60f84be309bf23de74638c3a501c7e912e94ee8dd3b38b4fe6bb0cfb2e66";
+
+
+  export const MENU_API =
+  "https://www.swiggy.com/dapi/menu/pl?page-type=REGULAR_MENU&complete-menu=true&lat=12.9351929&lng=77.62448069999999&restaurantId=";
